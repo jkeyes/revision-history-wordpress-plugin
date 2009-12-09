@@ -1,6 +1,15 @@
 Revision History displays the revision history of a post or page, 
 with links to the content of each revision.
 
+Installation
+------------
+Copy the revision-history directory into your wp-content/plugins directory.
+
+Configuration
+-------------
+There is a 'Revision History' menu in Settings, where you can configure 
+whether to show the revision history on pages and posts.
+
 Credit
 ------
 Inspired by http://www.darcynorman.net/wordpress/post-revision-display/
